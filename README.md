@@ -38,7 +38,7 @@ Ele utiliza um **menu de opções** que permite ao usuário interagir com sua co
 
 ```bash
 # Clone o repositório
-git clone https://github.com/usuario/Sistema-Bancario-Java.git
+git clone https://github.com/Medeiros20/Sistema-Bancario-Java.git
 
 # Acesse a pasta do projeto
 cd Sistema-Bancario-Java
